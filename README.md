@@ -3,17 +3,17 @@
 
 
 
-- 🔭 I’m currently working on [CAR CASTOMIZER](https://github.com/dotNetSamurai/3DCarsApp)
+- 🔭 I’m currently working on [Car Castomizer](https://github.com/dotNetSamurai/3DCarsApp)
 
 - 🌱 I’m currently learning **JavaScript & Some features on .NET 5**
 
-- 👯 I’m looking to 3D-Desgner for [CAR CASTOMIZER](https://github.com/dotNetSamurai/3DCarsApp)
+- 👯 I’m looking to 3D-Designer for [Car Castomizer](https://github.com/dotNetSamurai/3DCarsApp)
 
 - 🤝 I’m looking for help with Three.js [THREE JS](https://threejs.org/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dotNetSamurai?tab=repositories](https://github.com/dotNetSamurai?tab=repositories)
 
-- 💬 Ask me about **C#, .NET, Unity, WPF, ASP,NET**
+- 💬 Ask me about **C#, .NET, Unity**
 
 - 📫 How to reach me **nickkalashnikov2000@gmail.com**
 
