@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript & Some features on .NET 5**
 
-- 👯 I’m looking to 3D-Designer for [Car Castomizer](https://github.com/dotNetSamurai/3DCarsApp)
+- 👯 I’m looking for 3D-Designer on [Car Castomizer](https://github.com/dotNetSamurai/3DCarsApp)
 
 - 🤝 I’m looking for help with Three.js [THREE JS](https://threejs.org/)
 
