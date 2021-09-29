@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dotNetSamurai?tab=repositories](https://github.com/dotNetSamurai?tab=repositories)
 
-- 💬 Ask me about **C#, .NET, Unity**
+- 💬 Ask me about  **C#, .NET, Unity**
 
 - 📫 How to reach me **nickkalashnikov2000@gmail.com**
 
