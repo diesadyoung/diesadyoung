@@ -3,13 +3,8 @@
 
 
 
-- 🔭 I’m currently working on [Car Castomizer](https://github.com/dotNetSamurai/3DCarsApp)
 
-- 🌱 I’m currently learning **JavaScript & Some features on .NET 5**
-
-- 👯 I’m looking for 3D-Designer on [Car Castomizer](https://github.com/dotNetSamurai/3DCarsApp)
-
-- 🤝 I’m looking for help with Three.js [THREE JS](https://threejs.org/)
+- 🌱 I’m currently learning **CyberSecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dotNetSamurai?tab=repositories](https://github.com/dotNetSamurai?tab=repositories)
 
