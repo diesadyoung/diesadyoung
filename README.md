@@ -1,18 +1,30 @@
-<h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">.NET DEVELOPER FROM BELARUS</h3>
+<h1 align="center">WASSAP</h1>
+<h3 align="center">.NET DEVELOPER</h3>
 
 
 
 
-- 🌱 I’m currently learning **CyberSecurity**
+- .𝐍𝐄𝐓 𝐟𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤 \ С𝐨𝐫𝐞 𝐯𝐞𝐫𝐬𝐢𝐨𝐧𝐬: .NET 1.0 – .NET 6
 
-- 👨‍💻 All of my projects are available at [https://github.com/dotNetSamurai?tab=repositories](https://github.com/dotNetSamurai?tab=repositories)
+- 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: C#, Visual Basic .NET, F#
 
-- 💬 Ask me about  **C#, .NET, Unity**
+- 𝐖𝐞𝐛 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬: ASP.NET MVC 1-5
 
-- 📫 How to reach me **nickkalashnikov2000@gmail.com**
+- 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝: HTML, CSS, RAZOR
 
-- ⚡ Fun fact **Life without sweets is beautiful**
+- 𝐃𝐞𝐬𝐤𝐭𝐨𝐩 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬: WPF, Windows Forms
+
+- 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬: ASP.NET Web API
+
+- 𝐈𝐨𝐂 𝐂𝐨𝐭𝐚𝐢𝐧𝐞𝐫𝐧𝐬: Unity, Ninject, AutoFac
+
+- 𝐎𝐑𝐌: Entity Framework 1-6, Linq2SQL, ADO.NET
+
+- 𝐂# 𝐮𝐧𝐢𝐭 𝐭𝐞𝐬𝐭𝐢𝐧𝐠 𝐟𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬: nUnit, xUnit
+
+- 𝐂# 𝐛𝐮𝐢𝐥𝐝 𝐭𝐨𝐨𝐥𝐬: GIT, TFS, .NET
+
+- 📫 How to reach me **nickkalashnikov2000@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
